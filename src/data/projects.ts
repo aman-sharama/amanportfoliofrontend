@@ -8,7 +8,6 @@ export type Project = {
 };
 
 export const projects: Project[] = [
-<<<<<<< HEAD
 
 
     {
@@ -44,17 +43,6 @@ export const projects: Project[] = [
 
 
  
-=======
-  {
-    title: "Admin Dashboard CRM",
-    role: "Next.js · PrimeReact · Redux Toolkit",
-    description:
-      "Secure internal CRM admin portal for booking management, analytics tracking, and service control modules with role-based dashboards.",
-    techStack: ["Next.js", "PrimeReact", "Redux Toolkit", "REST APIs"],
-    url: "https://crm.barcosys.in",
-    highlight: "Role-based dashboards, exportable data tables, performance-optimized UI."
-  },
->>>>>>> fb8e3b65ebc313ff2696265db9fe362f457fabd2
   {
     title: "Laxmi Holidays – Travel Beyond Limits",
     role: "Next.js · Bootstrap 5",
