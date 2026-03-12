@@ -55,7 +55,7 @@ export const ProjectsSection = () => {
                     >
                       {project.title}
                     </span>
-                    <span className="tag-pill">Case study</span>
+                    {/* <span className="tag-pill">Case study</span> */}
                   </div>
                   <div
                     style={{

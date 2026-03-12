@@ -64,6 +64,7 @@ export const HeroSection = () => {
           </div>
 
           <div className="chip-row">
+            <span className="chip">HTML &amp; CSS &amp; SCSS &amp; JS</span>
             <span className="chip">React.js &amp; Next.js</span>
             <span className="chip">Material UI &amp; Bootstrap</span>
             <span className="chip">Redux Toolkit</span>

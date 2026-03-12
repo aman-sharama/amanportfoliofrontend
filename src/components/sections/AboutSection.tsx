@@ -82,9 +82,11 @@ export const AboutSection = () => {
               <div className="about-meta-label mb-1">Focus areas</div>
               <div className="chip-row">
                 <span className="chip">Dashboard UX</span>
+                <span className="chip">E-commerce Websites Platforms</span>
                 <span className="chip">Travel platforms</span>
                 <span className="chip">Marketplaces</span>
                 <span className="chip">Admin portals</span>
+                <span className="chip">WebSite Design</span>
               </div>
             </div>
 
