@@ -31,7 +31,7 @@ export const AboutSection = () => {
           </div>
 
           <div
-            className="col-lg-5 d-flex justify-content-center justify-content-lg-end"
+            className="col-lg-5 d-flex justify-content-center"
             data-aos="fade-left"
             data-aos-delay="80"
           >
