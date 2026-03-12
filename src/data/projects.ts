@@ -44,6 +44,15 @@ export const projects: Project[] = [
 
  
   {
+    title: "Admin Dashboard CRM",
+    role: "Next.js · PrimeReact · Redux Toolkit",
+    description:
+      "Secure internal CRM admin portal for booking management, analytics tracking, and service control modules with role-based dashboards.",
+    techStack: ["Next.js", "PrimeReact", "Redux Toolkit", "REST APIs"],
+    url: "https://crm.barcosys.in",
+    highlight: "Role-based dashboards, exportable data tables, performance-optimized UI."
+  },
+  {
     title: "Laxmi Holidays – Travel Beyond Limits",
     role: "Next.js · Bootstrap 5",
     description:
