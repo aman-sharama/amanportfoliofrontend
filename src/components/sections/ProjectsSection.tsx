@@ -55,7 +55,11 @@ export const ProjectsSection = () => {
                     >
                       {project.title}
                     </span>
+<<<<<<< HEAD
                     {/* <span className="tag-pill">Case study</span> */}
+=======
+                    <span className="tag-pill">Case study</span>
+>>>>>>> fb8e3b65ebc313ff2696265db9fe362f457fabd2
                   </div>
                   <div
                     style={{
